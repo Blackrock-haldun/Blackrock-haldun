@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at __https://github.com/Blackrock-haldun__
 - 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Workstation, Ansible, Jenkins, Prometheus, Grafana, Storage__
 - 📫 How to reach me: __haldunkarakaya@gmail.com__
-- 📄 Know about my experiences __linkedin.com/in/haldun-karakaya-3890826b__
+- 📄 Know about my experiences __linkedin.com/in/haldun-karakaya__
 
 
 
