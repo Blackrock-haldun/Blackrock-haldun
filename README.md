@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning __AWS Cloud Architect / DevOps Engineering__
 - 👨‍💻 All of my projects are available at __https://github.com/Blackrock-haldun__
-- 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Workstation, Ansible, Jenkins, Prometheus, Grafana, Storage__
+- 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana,  Workstation, Storage__
 - 📫 How to reach me: __haldunkarakaya@gmail.com__
 - 📄 Know about my experiences __linkedin.com/in/haldun-karakaya__
 
